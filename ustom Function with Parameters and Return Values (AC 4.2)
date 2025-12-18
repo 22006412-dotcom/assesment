@@ -1,0 +1,8 @@
+def split_bill(total_amount: float, people: int, tip: float) -> float:
+    if people <= 0:
+        raise ValueError("Number of people must be greater than zero.")
+
+    if tip > 0:
+        total_amount += tip
+
+    return total_amount / people
