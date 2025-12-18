@@ -1,6 +1,6 @@
-this is my  code for sliting  bills and solve the problasm a groub of people have when they  have a big amount of bill and they want to slpit the billls btween them 
- i have created a function 
-created a function: split_bill
+# this is my  code for sliting  bills and solve the problasm a groub of people have when they  have a big amount of bill and they want to slpit the billls btween them 
+# i have created a function 
+# created a function: split_bill
 def split_bill(total_amount, people, tip). 
 This function:
 Takes three parameters:
